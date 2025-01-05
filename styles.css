@@ -1,0 +1,23 @@
+* {
+  background-color: #1B262C;
+}
+
+h1 {
+  color: #3282B8;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+  color: #3282B8;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+  color: #3282B8;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #3282B8;
+}
