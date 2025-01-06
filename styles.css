@@ -5,6 +5,7 @@
 h1 {
   color: #3282B8;
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 li {
@@ -20,4 +21,10 @@ h2 {
 p {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: #3282B8;
+}
+
+.recipe-list {
+  display: block;
+  margin: auto;
+  width: 200px;
 }
